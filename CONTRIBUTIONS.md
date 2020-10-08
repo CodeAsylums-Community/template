@@ -21,8 +21,6 @@ This file contains all the rules that you need to keep in mind while contributin
 
 #### 👇 Prerequisites:
 
-![Pass](https://media.giphy.com/media/Z9cRCMdAMzXi25dwhE/giphy.gif)
-
 1. When it comes to package version, make sure you use the correct package.
 2. Improve Documentation, this really helps to understand code, mention all the error code along with their description while working on real projects.
 3. When it comes to naming convention, maintain similarity and stability through out the app.
