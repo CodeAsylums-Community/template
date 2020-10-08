@@ -51,7 +51,7 @@ git clone https://github.com/<your-github-username>/<project name>
 cd <project name>
 ```
 
-**4.** Create a new fodler for your name (assignment specific).
+**4.** Create a new fodler for your name (assignment specific IGNORE FOR NORMAL PROJECTS).
 
 
 **5.** Make changes in source code.
