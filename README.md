@@ -29,6 +29,7 @@ $ python3 manage.py runserver
 ```
 
 ## Contributors
+Follow the guidelines mentioned in [Contribution Guidelines](https://github.com/CodeAsylums-Community/template/blob/main/CONTRIBUTIONS.md)
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 
