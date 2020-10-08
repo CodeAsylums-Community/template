@@ -1,10 +1,5 @@
 <h1 align="center"><b><img src="https://raw.githubusercontent.com/CodeAsylums-Community/CodeAsylums-Community-Website/master/assets/img/favicon.png"></img></b></h1>
 
-![Issues](https://img.shields.io/github/issues/smaranjitghose/girlscript_app)
-![Pull Requests](https://img.shields.io/github/issues-pr/smaranjitghose/girlscript_app)
-![Forks](https://img.shields.io/github/forks/smaranjitghose/girlscript_app)
-![Stars](https://img.shields.io/github/stars/smaranjitghose/girlscript_app)
-[![License](https://img.shields.io/github/license/smaranjitghose/girlscript_app)](https://github.com/smaranjitghose/girlscript_app/blob/master/LICENSE)
 
 
 
