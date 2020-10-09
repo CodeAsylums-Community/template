@@ -1,4 +1,4 @@
-<h1 align="center"><b><img src="https://raw.githubusercontent.com/CodeAsylums-Community/CodeAsylums-Community-Website/master/assets/img/favicon.png"></img></b></h1>
+<h1 align="center"><b><img src="https://i.ibb.co/6wyhHNc/Code-Asylums-Community-1.png" width="700px" alt="<Repo> Logo"/></img></b></h1>
 
 
 
