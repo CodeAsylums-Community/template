@@ -1,8 +1,6 @@
 <h1 align="center"><b><img src="https://i.ibb.co/6wyhHNc/Code-Asylums-Community-1.png" width="700px" alt="<Repo> Logo"/></img></b></h1>
 
 
-
-
 This file contains all the rules that you need to keep in mind while contributing to these projects.
 
 
@@ -32,7 +30,7 @@ This file contains all the rules that you need to keep in mind while contributin
 ![Steps](https://media.giphy.com/media/o5BzNDDFQnepi/giphy.gif)
 
 
-**1.** Fork [this](https://github.com/smaranjitghose/girlscript_app) repository.
+**1.** Fork [this](https://github.com/CodeAsylums-Community/<Repo Name>) repository.
 
 <img src="https://user-images.githubusercontent.com/41269164/70219309-9a3eca80-176a-11ea-8a4d-1bd701d07314.png" width=300>
 
